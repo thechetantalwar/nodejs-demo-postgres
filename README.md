@@ -1,5 +1,9 @@
 ## Instructions
 * Get connected to the database using PSQL command(Postgres-client)
+* Let's create a sample database
+    * create database demo;
+* Switch to the demo database
+    * \c demo;
 * Create a table in the database which we created
 ```
 create table employee(
