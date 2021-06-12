@@ -20,7 +20,7 @@ PRIMARY KEY (id));
 * Now we are back on the VM, let's install NodeJs and NPM
     * apt-get install nodejs npm
 * Let's clone the code from repository
-    * git clone https://gitlab.com/synechron-aws-batch-april/postgressql-crud-nodejs
+    * git clone https://github.com/thechetantalwar/nodejs-demo-postgres
     * cd postgressql-crud-nodejs
 * We need to update the connection string in the employee.js
     * vi routes/employees.js
