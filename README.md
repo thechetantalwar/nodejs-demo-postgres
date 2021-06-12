@@ -21,7 +21,7 @@ PRIMARY KEY (id));
     * apt-get install nodejs npm
 * Let's clone the code from repository
     * git clone https://github.com/thechetantalwar/nodejs-demo-postgres
-    * cd postgressql-crud-nodejs
+    * cd nodejs-demo-postgres
 * We need to update the connection string in the employee.js
     * vi routes/employees.js
 * Install the node libraries
