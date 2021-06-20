@@ -26,7 +26,7 @@ PRIMARY KEY (id));
     * vi routes/employees.js
 * Install the node libraries
     * npm install
-* You need to allow the traffic on port 4000 of this VM, as this application runs on that port only.
+* You need to allow the traffic on port 80 of this VM, as this application runs on that port only.
 * Let's run the application
     * node app.js
-* Now, browse your application in browser at http://vm_ip:4000
+* Now, browse your application in browser at http://vm_ip:80
